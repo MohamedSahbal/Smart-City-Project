@@ -1,0 +1,5 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F45K22 -DL -O11111114 -fo8 -N"D:\Smart City Project(Microprocessor IT 3rd Year)\smart_parking.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"D:\Smart City Project(Microprocessor IT 3rd Year)\" -SP"C:\Users\dell\Desktop\smart\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"D:\Smart City Project(Microprocessor IT 3rd Year)\" "smart_parking.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_Button.mcl" "__Lib_ADC_K22_B.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+diagnostics: 0	122	Compilation Started	string.h
+diagnostics: 348	123	Compiled Successfully	smart_parking.c
+diagnostics: 0	127	All files Compiled in 156 ms	 
+error: 0	102	Finished (with errors): 31 Dec 2023, 14:31:02	smart_parking.mcppi
